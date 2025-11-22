@@ -1,9 +1,9 @@
 # DataVisualization_LifeQualityWithIncreasingUrbanPopulation
 Its a Data Visualization Project, focusing of multiple Life Quality Factors affected by increasing Urban Population World Wide
 
-Raw Data > data_raw
+Raw Data Files > data_raw
 
-Cleaned Data > data_cleaned
+Cleaned Data Files > data_cleaned
 
 Individual EDA by members > notebooks
 
