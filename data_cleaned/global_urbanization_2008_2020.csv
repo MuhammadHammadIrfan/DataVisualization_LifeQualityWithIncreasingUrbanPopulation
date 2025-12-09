@@ -1,4 +1,4 @@
-country,country_code,year,total_pop,pop_dens_sq_km,urban_pop_perc,rural_pop_perc,elect_access_pop,ren_energy_cons_perc,clean_fuel_tech_cook_pop,co2_emiss_excl_lulucf
+country,country_code,year,total_population,population_density_sq_km,urban_population_percent,rural_population_percent,electricity_access_percent,renewable_energy_consumption_percent,clean_fuel_tech_cooking_percent,co2_emissions_excl_lulucf
 Armenia,ARM,2008,3087100.0,108.433438707411,63.64,36.36,99.2,6.4,94.9,5.6482
 Armenia,ARM,2009,3066000.0,107.692307692308,63.54,36.46,99.3,7.8,95.6,4.5018
 Armenia,ARM,2010,3044800.0,106.947664207938,63.44,36.56,99.8,9.4,96.1,4.2988
