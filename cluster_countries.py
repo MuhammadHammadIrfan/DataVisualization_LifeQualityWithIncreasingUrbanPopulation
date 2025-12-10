@@ -2,9 +2,8 @@
 K-Means Clustering Script for Country Classification
 Divides 46 countries into 2 clusters based on urbanization, development, and stability indicators
 
-Cluster Goal:
-- Cluster 0: Urbanized/Rich/Stable countries
-- Cluster 1: Urbanizing/Developing/Volatile/Unequal countries
+
+
 
 This demonstrates: "Urbanization is not a magic bullet; it depends on how you urbanize"
 """
